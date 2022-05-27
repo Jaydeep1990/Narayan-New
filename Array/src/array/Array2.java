@@ -3,7 +3,9 @@ package array;
 public class Array2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub jaydeep
+		// TODO Auto-generated method stub
+//jaydeep chavan
+
  /* String name="Jaydeep";
    String name1="Jaydeel";
   System.out.println(name.compareTo(name1));
