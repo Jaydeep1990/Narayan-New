@@ -2,7 +2,7 @@ package array;
 
 
 public class GoodMoring {
-//good automation
+//good automation tester
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// 1 2   00 01   10 00  4  1    11  10  3 4    01  11 2 3
