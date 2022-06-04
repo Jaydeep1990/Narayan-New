@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 public class KKK {
-//jjj
+//jjj good morning;
 	public static void main(String[] args) {
 
 		char[]jay= {'a','b','c','d'};
