@@ -1,6 +1,6 @@
 package array;
 
-//pravin and sourabh
+//pravin and sourabh gaurav
 
 public class Practice {
 public static void main(String[] args) {
