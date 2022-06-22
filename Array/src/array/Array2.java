@@ -6,7 +6,7 @@ public class Array2 {
 		// TODO Auto-generated method stub
 //home i like your shirt and Tshirt jaydeep chavan and subhash abhi come back
  /* String name="Jaydeep";
-   String name1="Jaydeel";//babalu
+   String name1="Jaydeel";//babalu and jaydeep
   System.out.println(name.compareTo(name1));
     if(name.length()==name1.length()) {
     	try {
