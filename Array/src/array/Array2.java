@@ -1,5 +1,5 @@
 package array;
-
+//gaurav happy merrage life
 public class Array2 {
 
 	public static void main(String[] args) {
